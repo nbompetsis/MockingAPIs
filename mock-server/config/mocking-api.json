@@ -1,0 +1,11 @@
+[
+  {
+    "httpRequest": {
+      "method": "POST",
+      "path": "/api/.*"
+    },
+    "httpResponse": {
+      "body": "some response"
+    }
+  }
+]
